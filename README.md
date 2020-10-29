@@ -35,7 +35,7 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 ||https://www.iconfinder.com/editor/#copy online icon(svg file) editor|
 ||Colorbug : portable software to get the color code in HEX|
 
- FREE Tools around Power BI | Description 
+ FREE tools around PowerBI | Description 
 ---------|--------------------------------------------------------------------------------------------------------------
  DAX Studio| Executing and analyzing DAX queries against Microsoft Tabular models
  Tabular Editor| Can edit a BIM file without accessing to any data. This offline capability makes any change very quick to apply to the BIM file, especially when you manipulate and manage measures, calculated columns, display folders, perspectives and translations.
@@ -62,6 +62,6 @@ Course 2 from the Datawarehouse and BI specialization, Colorado University, Cour
 
 * **The Data Warehouse Toolkit**, Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf).  
 It is considered as the bible for dimension modeling.  
-**Anki flashCards** chapters 1,2,3 : soon 
+**Anki flashCards** chapters 1,2,3 : soon  :sparkles:
 
 
