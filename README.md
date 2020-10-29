@@ -28,13 +28,14 @@ considered as the bible for dimension modeling
 •	learn low-level implementation detail of how exactly the query engine parses, estimates, optimizes, rewrites and executes the queries.
 •	learn about cloud-based implementations of relational databases like Amazon Aurora, Amazon RDS and Azure SQL Database and so on.
 
+|   | Description |
+|---------|--------------------------------------------------------------------------------------------------------------|
 
-•	Clean SQL Code 	How to avoid writing sloppy sql (https://towardsdatascience.com/how-to-avoid-writing-sloppy-sql-43647a160025)
-					Unofficial sql style guide like pep8 for python https://www.sqlstyle.guide/ 
-					bad habits to kick using table aliases  https://sqlblog.org/2009/10/08/bad-habits-to-kick-using-table-aliases-like-a-b-c-or-t1-t2-t3
-
-•	Performing SQL Code 	https://towardsdatascience.com/easy-fixes-for-sql-queries-ff9d8867a617
-https://sql.sh/optimisation
+|   Clean SQL Code| 	How to avoid writing sloppy sql (https://towardsdatascience.com/how-to-avoid-writing-sloppy-sql-43647a160025)|
+|   | Unofficial sql style guide like pep8 for python https://www.sqlstyle.guide/ |
+|   | bad habits to kick using table aliases  https://sqlblog.org/2009/10/08/bad-habits-to-kick-using-table-aliases-like-a-b-c-or-t1-t2-t3|
+|   Performing SQL Code 	| https://towardsdatascience.com/easy-fixes-for-sql-queries-ff9d8867a617|
+|   | https://sql.sh/optimisation|
 
 
 #### Power BI
@@ -46,15 +47,13 @@ https://sql.sh/optimisation
 | 		   |https://powerbi.microsoft.com/fr-fr/blog/ stay up to date to latest PBI version |
 | DAX | [DAX Pattern and Best Practice](https://www.daxpatterns.com/patterns/?ver=excel-2010-2013) |
 ||[DAX Cheat sheet](https://pragmaticworks.com/portfolio/dax-cheat-sheet/) 	|
-
 |Image ressources | https://fontawesome.com/icons?d=gallery&m=free high resolution icons|
 | 		   |https://www.iconfinder.com/editor/#copy online icon(svg file) editor|
 ||Colorbug : portable software to get the color code in HEX|
 
-Tools around Power BI
-• DAX Studio
-	Executing and analyzing DAX queries against Microsoft Tabular models
-• Tabular Editor
-	Open source ; Can edit a BIM file without accessing to any data. This offline capability makes any change very quick to apply to the BIM file, especially when you manipulate and manage measures, calculated columns, display folders, perspectives and translations.
+|  Tools around Power BI | Description |
+|---------|--------------------------------------------------------------------------------------------------------------|
+| DAX Studio| Executing and analyzing DAX queries against Microsoft Tabular models|
+| Tabular Editor|	Open source ; Can edit a BIM file without accessing to any data. This offline capability makes any change very quick to apply to the BIM file, especially when you manipulate and manage measures, calculated columns, display folders, perspectives and translations.|
 
 
