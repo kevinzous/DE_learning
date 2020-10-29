@@ -48,8 +48,8 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 * Principles of Data-Intensive Systems [CS245](http://web.stanford.edu/class/cs245/#), Stanford
 
 
-- Data Warehouse Concepts, Design, and Data Integration, [course link](https://www.coursera.org/learn/dwdesign/home/welcome), 
-Colorado University, Coursera
+- Data Warehouse Concepts, Design, and Data Integration, [course link](https://www.coursera.org/learn/dwdesign/home/welcome)  
+Course 2 from the Datawarehouse and BI specialization, Colorado University, Coursera 
 
 | |Description|
 |---------|--------------------------------------------------------------------------------------------------------------|
@@ -60,9 +60,8 @@ Colorado University, Coursera
 
 ## 3 - Books
 
-* **The Data Warehouse Toolkit**, Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf). 
-It is considered as the bible for dimension modeling.
-
-	Anki flashCards chapters 1,2,3 : soon 
+* **The Data Warehouse Toolkit**, Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf).  
+It is considered as the bible for dimension modeling.  
+**Anki flashCards** chapters 1,2,3 : soon 
 
 
