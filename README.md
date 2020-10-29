@@ -30,7 +30,6 @@ considered as the bible for dimension modeling
 
 |   | Description |
 |---------|--------------------------------------------------------------------------------------------------------------|
-
 |   Clean SQL Code| 	How to avoid writing sloppy sql (https://towardsdatascience.com/how-to-avoid-writing-sloppy-sql-43647a160025)|
 |   | Unofficial sql style guide like pep8 for python https://www.sqlstyle.guide/ |
 |   | bad habits to kick using table aliases  https://sqlblog.org/2009/10/08/bad-habits-to-kick-using-table-aliases-like-a-b-c-or-t1-t2-t3|
