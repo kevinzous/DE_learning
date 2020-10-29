@@ -62,6 +62,6 @@ Course 2 from the Datawarehouse and BI specialization, Colorado University, Cour
 
 * **The Data Warehouse Toolkit**, Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf).  
 It is considered as the bible for dimension modeling.  
-**Anki flashCards** chapters 1,2,3 : soon  :sparkles:
+**Anki flashCards** chapters 1,2,3 : soon  :sparkles: :sparkles: :sparkles: 
 
 
