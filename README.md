@@ -1,32 +1,37 @@
 # BI_learning
 Learning ressources for Data Warehousing - BI - Data Analytics 
 
-## Learning Ressources
 
-### MOOCS
-Data Management and Data Systems, [CS145](https://cs145-fa19.github.io/#)
-Stanford
-|pros|   
-|cons|   
-
-[Data Warehouse Concepts, Design, and Data Integration (Data Warehousing for Business Intelligence)](https://www.coursera.org/learn/dwdesign/home/welcome)
-Coursera, Colorado University
-|pros|
-|cons|   
-
-### Books
-The Data Warehouse Toolkit,  Ralph Kimball & Margy Ross. [PDF link](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf)
-considered as the bible for dimension modeling
-
-### Online resources
+## MOOCS
+* Data Management and Data Systems, [CS145](https://cs145-fa19.github.io/#), Stanford
+* Principles of Data-Intensive Systems [CS245](http://web.stanford.edu/class/cs245/#), Stanford
 
 
-#### SQL 
+- Data Warehouse Concepts, Design, and Data Integration.  [course link](https://www.coursera.org/learn/dwdesign/home/welcome), 
+Colorado University, Coursera
+
+|pros|pros|
+|---------|--------------------------------------------------------------------------------------------------------------|
+|pros|+ |
+|cons|- some tools used in the course are not that relevant in the industry(ex: Pentaho Data Integration,Web Pivot Table...)|
+
+
+	  
+## Books
+
+* The Data Warehouse Toolkit,  Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf). 
+It is considered as the bible for dimension modeling
+
+
+## Online resources
+
+
+### SQL 
  	
-•	internals of your relational database — how the database uses memory and disk
-•	what order does a query execute — which clause of the query gets evaluated first. Does the JOIN happen first or the WHERE clause or the GROUP BY
-•	learn low-level implementation detail of how exactly the query engine parses, estimates, optimizes, rewrites and executes the queries.
-•	learn about cloud-based implementations of relational databases like Amazon Aurora, Amazon RDS and Azure SQL Database and so on.
+* internals of your relational database — how the database uses memory and disk
+* what order does a query execute — which clause of the query gets evaluated first. Does the JOIN happen first or the WHERE clause or the GROUP BY
+* learn low-level implementation detail of how exactly the query engine parses, estimates, optimizes, rewrites and executes the queries.
+* learn about cloud-based implementations of relational databases like Amazon Aurora, Amazon RDS and Azure SQL Database and so on.
 
 |   | Description |
 |---------|--------------------------------------------------------------------------------------------------------------|
@@ -37,7 +42,7 @@ considered as the bible for dimension modeling
 |   | https://sql.sh/optimisation|
 
 
-#### Power BI
+### Power BI
 
 |   | Description |
 |---------|--------------------------------------------------------------------------------------------------------------|
