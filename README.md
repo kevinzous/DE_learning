@@ -38,7 +38,7 @@ Learning ressources for Data Warehousing - BI - Data Analytics
  FREE Tools around Power BI | Description 
 ---------|--------------------------------------------------------------------------------------------------------------
  DAX Studio| Executing and analyzing DAX queries against Microsoft Tabular models
- Tabular Editor|	Open source ; Can edit a BIM file without accessing to any data. This offline capability makes any change very quick to apply to the BIM file, especially when you manipulate and manage measures, calculated columns, display folders, perspectives and translations.
+ Tabular Editor| Can edit a BIM file without accessing to any data. This offline capability makes any change very quick to apply to the BIM file, especially when you manipulate and manage measures, calculated columns, display folders, perspectives and translations.
 
 
 
