@@ -2,31 +2,10 @@
 Learning ressources for Data Warehousing - BI - Data Analytics 
 
 
-## MOOCS
-* Data Management and Data Systems, [CS145](https://cs145-fa19.github.io/#), Stanford
-* Principles of Data-Intensive Systems [CS245](http://web.stanford.edu/class/cs245/#), Stanford
+## 1 - Online resources
 
 
-- Data Warehouse Concepts, Design, and Data Integration.  [course link](https://www.coursera.org/learn/dwdesign/home/welcome), 
-Colorado University, Coursera
-
-|pros|pros|
-|---------|--------------------------------------------------------------------------------------------------------------|
-|pros|+ |
-|cons|- some tools used in the course are not that relevant in the industry(ex: Pentaho Data Integration,Web Pivot Table...)|
-
-
-	  
-## Books
-
-* The Data Warehouse Toolkit,  Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf). 
-It is considered as the bible for dimension modeling
-
-
-## Online resources
-
-
-### SQL 
+### 1A - SQL 
  	
 * internals of your relational database — how the database uses memory and disk
 * what order does a query execute — which clause of the query gets evaluated first. Does the JOIN happen first or the WHERE clause or the GROUP BY
@@ -42,7 +21,7 @@ It is considered as the bible for dimension modeling
 |   | https://sql.sh/optimisation|
 
 
-### Power BI
+### 1B - Power BI
 
 |   | Description |
 |---------|--------------------------------------------------------------------------------------------------------------|
@@ -61,3 +40,25 @@ It is considered as the bible for dimension modeling
 | Tabular Editor|	Open source ; Can edit a BIM file without accessing to any data. This offline capability makes any change very quick to apply to the BIM file, especially when you manipulate and manage measures, calculated columns, display folders, perspectives and translations.|
 
 
+
+## 2 - MOOCS
+* Data Management and Data Systems, [CS145](https://cs145-fa19.github.io/#), Stanford
+* Principles of Data-Intensive Systems [CS245](http://web.stanford.edu/class/cs245/#), Stanford
+
+
+- Data Warehouse Concepts, Design, and Data Integration.  [course link](https://www.coursera.org/learn/dwdesign/home/welcome), 
+Colorado University, Coursera
+
+|pros|pros|
+|---------|--------------------------------------------------------------------------------------------------------------|
+|pros|+ |
+|cons|- some tools used in the course are not that relevant in the industry(ex: Pentaho Data Integration,Web Pivot Table...)|
+
+
+	  
+## 3 - Books
+
+* The Data Warehouse Toolkit,  Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf). 
+It is considered as the bible for dimension modeling
+
+* Anki flashCards chapter 1,2,3 : soon 
