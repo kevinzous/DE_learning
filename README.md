@@ -1,12 +1,13 @@
 # BI_learning
 Learning ressources for Data Warehousing - BI - Data Analytics 
 
----
+
 ## 1 - Online resources
 
 
 ### 1A - SQL 
- 	
+
+
 * internals of your relational database — how the database uses memory and disk
 * what order does a query execute — which clause of the query gets evaluated first. Does the JOIN happen first or the WHERE clause or the GROUP BY
 * learn low-level implementation detail of how exactly the query engine parses, estimates, optimizes, rewrites and executes the queries.
@@ -42,7 +43,7 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 
 
 ## 2 - MOOCS
----
+
 * Data Management and Data Systems, [CS145](https://cs145-fa19.github.io/#), Stanford
 * Principles of Data-Intensive Systems [CS245](http://web.stanford.edu/class/cs245/#), Stanford
 
@@ -56,10 +57,12 @@ Colorado University, Coursera
 |cons|- some tools used in the course are not that relevant in the industry (ex: Pentaho Data Integration, Web Pivot Table...)|
 
 
----
+
 ## 3 - Books
 
-* The Data Warehouse Toolkit,  Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf). 
-It is considered as the bible for dimension modeling
+* **The Data Warehouse Toolkit**, Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf). 
+It is considered as the bible for dimension modeling.
 
-* Anki flashCards chapters 1,2,3 : soon 
+	Anki flashCards chapters 1,2,3 : soon 
+
+
