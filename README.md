@@ -40,8 +40,9 @@ Learning ressources for Data Warehousing - BI - Data Analytics
  Tabular Editor|	Open source ; Can edit a BIM file without accessing to any data. This offline capability makes any change very quick to apply to the BIM file, especially when you manipulate and manage measures, calculated columns, display folders, perspectives and translations.
 
 
----
+
 ## 2 - MOOCS
+---
 * Data Management and Data Systems, [CS145](https://cs145-fa19.github.io/#), Stanford
 * Principles of Data-Intensive Systems [CS245](http://web.stanford.edu/class/cs245/#), Stanford
 
