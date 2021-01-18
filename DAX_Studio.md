@@ -26,7 +26,7 @@ SELECT tableid,
 	   explicitName,
 	   expression,
 	   formatString, 
-	   [Type],
+	   [Type],  --between brackets as type is a reserved keyword
 	   isHidden,
 	   inferredDataType,
 	   explicitDataType
@@ -34,7 +34,5 @@ SELECT tableid,
  WHERE NOT isHidden 
    AND ( [Type] = 1 or [Type] = 2) --columns or calculated columns
  ORDER BY tableid
-
 ```
 
-```

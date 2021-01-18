@@ -8,34 +8,35 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 ### 1A - SQL 
 
 
+|   | Description 
+|---------|--------------------------------------------------------------------------------------------------------------
+|Clean SQL Code|Unofficial sql style guide like pep8 for python https://www.sqlstyle.guide/ 
+|   |How to avoid writing sloppy sql (https://towardsdatascience.com/how-to-avoid-writing-sloppy-sql-43647a160025)
+|   |Bad habits to kick using table aliases  https://sqlblog.org/2009/10/08/bad-habits-to-kick-using-table-aliases-like-a-b-c-or-t1-t2-t3
+|Performing SQL Code| https://towardsdatascience.com/easy-fixes-for-sql-queries-ff9d8867a617
+|   | https://sql.sh/optimisation
+
+
 * internals of your relational database — how the database uses memory and disk
 * what order does a query execute — which clause of the query gets evaluated first. Does the JOIN happen first or the WHERE clause or the GROUP BY
 * learn low-level implementation detail of how exactly the query engine parses, estimates, optimizes, rewrites and executes the queries.
 * learn about cloud-based implementations of relational databases like Amazon Aurora, Amazon RDS and Azure SQL Database and so on.
-
-|   | Description 
-|---------|--------------------------------------------------------------------------------------------------------------
-|Clean SQL Code|How to avoid writing sloppy sql (https://towardsdatascience.com/how-to-avoid-writing-sloppy-sql-43647a160025)
-|   |Unofficial sql style guide like pep8 for python https://www.sqlstyle.guide/ 
-|   |bad habits to kick using table aliases  https://sqlblog.org/2009/10/08/bad-habits-to-kick-using-table-aliases-like-a-b-c-or-t1-t2-t3
-|Performing SQL Code| https://towardsdatascience.com/easy-fixes-for-sql-queries-ff9d8867a617
-|   | https://sql.sh/optimisation
 
 
 ### 1B - Power BI
 
 || Description |
 |---------|--------------------------------------------------------------------------------------------------------------|
-|Power BI| https://docs.microsoft.com/en-us/power-bi/ : Power BI official documentation (Best practices guidance, Learning Catalogue...)| 
-|| https://www.sqlbi.com/ Good articles |
-|| https://powerbi.microsoft.com/fr-fr/blog/ stay up to date to latest PBI version |
+|Power BI| Power BI official documentation (Best practices guidance, Learning Catalogue...) https://docs.microsoft.com/en-us/power-bi/| 
+|| Good articles https://www.sqlbi.com/ |
+|| Stay up to date to latest PBI version https://powerbi.microsoft.com/fr-fr/blog/ |
 |DAX| [DAX Pattern and Best Practice](https://www.daxpatterns.com/patterns/?ver=excel-2010-2013) |
 ||[DAX Cheat sheet](https://pragmaticworks.com/portfolio/dax-cheat-sheet/) 	|
 |Image ressources | https://fontawesome.com/icons?d=gallery&m=free high resolution icons|
 ||https://www.iconfinder.com/editor/#copy online icon(svg file) editor|
 ||Colorbug : portable software to get the color code in HEX|
 
- FREE tools around PowerBI | Description 
+ Useful FREE tools | Description 
 ---------|--------------------------------------------------------------------------------------------------------------
  DAX Studio| Executing and analyzing DAX queries against Microsoft Tabular models
  Tabular Editor| Can edit a BIM file without accessing to any data. This offline capability makes any change very quick to apply to the BIM file, especially when you manipulate and manage measures, calculated columns, display folders, perspectives and translations.
@@ -48,14 +49,9 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 * Principles of Data-Intensive Systems [CS245](http://web.stanford.edu/class/cs245/#), Stanford
 
 
-- Data Warehouse Concepts, Design, and Data Integration, [course link](https://www.coursera.org/learn/dwdesign/home/welcome)  
+* Data Warehouse Concepts, Design, and Data Integration, [course link](https://www.coursera.org/learn/dwdesign/home/welcome)  
 Course 2 from the Datawarehouse and BI specialization, Colorado University, Coursera 
-
-| |Description|
-|---------|--------------------------------------------------------------------------------------------------------------|
-|pros|+ |
-|cons|- some tools used in the course are not that relevant in the industry (ex: Pentaho Data Integration, Web Pivot Table...)|
-
+Cons : some tools used in the course are not that relevant in the industry (ex: Pentaho Data Integration, Web Pivot Table...)|
 
 
 ## 3 - Books
