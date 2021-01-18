@@ -1,9 +1,10 @@
-Learning ressources for Data Warehousing - BI - Data Analytics 
 # DAX STUDIO
 
 ## Use case:
 * Export data (for data more than 1 million rows)
 * Role and RLS testing 
+* Get list of measures (below)
+* Get list of columns (below)
 * and more https://exceleratorbi.com.au/getting-started-dax-studio/
 
 ## Useful links
@@ -12,8 +13,8 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 ## Get list of measures
  ```sql
 SELECT measuregroup_name AS table_name, 
-   	   measure_name, 
-   	   expression
+       measure_name,  
+       expression
   FROM $System.MDSCHEMA_MEASURES
  WHERE measure_aggregator = 0
  ORDER BY measuregroup_name
@@ -36,20 +37,4 @@ SELECT tableid,
 
 ```
 
- ```sql
-SELECT [CATALOG_NAME] as [DATABASE],
-    CUBE_NAME AS [CUBE],[MEASUREGROUP_NAME] AS [FOLDER],[MEASURE_CAPTION] AS [MEASURE],
-    [MEASURE_IS_VISIBLE]
-FROM $System.MDSCHEMA_MEASURES
-```
-
-
- ```sql
-select * from $SYSTEM.DBSCHEMA_COLUMNS
-where column_olap_type='ATTRIBUTE'
-```
-
- ```sql
-select * from $SYSTEM.TMSCHEMA_TABLES
-WHERE not ishidden 
 ```
