@@ -28,9 +28,10 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 || Description |
 |---------|--------------------------------------------------------------------------------------------------------------|
 |Power BI| Power BI official documentation (Best practices guidance, Learning Catalogue...) https://docs.microsoft.com/en-us/power-bi/| 
-|| Good articles https://www.sqlbi.com/ |
-|| Stay up to date to latest PBI version https://powerbi.microsoft.com/fr-fr/blog/ |
-|DAX| [DAX Pattern and Best Practice](https://www.daxpatterns.com/patterns/?ver=excel-2010-2013) |
+|| [SQLBI Good articles around DAX/BI] (https://www.sqlbi.com/) |
+|| [Official blog to stay up to date to the latest developpement] (https://powerbi.microsoft.com/fr-fr/blog/) |
+|| [Power BI Cheat sheets and best practices] (https://powerbi.microsoft.com/fr-fr/blog/) |
+|DAX| [DAX Pattern and Best Practice (Handling Different Granularities, Dynamic Segmentation, Time Patterns, Cumulative Total...)](https://www.daxpatterns.com/patterns/?ver=excel-2010-2013) |
 ||[DAX Cheat sheet](https://pragmaticworks.com/portfolio/dax-cheat-sheet/) 	|
 |Image ressources | https://fontawesome.com/icons?d=gallery&m=free high resolution icons|
 ||https://www.iconfinder.com/editor/#copy online icon(svg file) editor|
@@ -40,7 +41,6 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 ---------|--------------------------------------------------------------------------------------------------------------
  DAX Studio| Executing and analyzing DAX queries against Microsoft Tabular models
  Tabular Editor| Can edit a BIM file without accessing to any data. This offline capability makes any change very quick to apply to the BIM file, especially when you manipulate and manage measures, calculated columns, display folders, perspectives and translations.
-
 
 
 ## 2 - MOOCS
