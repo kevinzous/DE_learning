@@ -28,13 +28,13 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 || Description |
 |---------|--------------------------------------------------------------------------------------------------------------|
 |Power BI| Power BI official documentation (Best practices guidance, Learning Catalogue...) https://docs.microsoft.com/en-us/power-bi/| 
-|| [SQLBI Good articles around DAX/BI] (https://www.sqlbi.com/) |
-|| [Official blog to stay up to date to the latest developpement] (https://powerbi.microsoft.com/fr-fr/blog/) |
-|| [Power BI Cheat sheets and best practices] (https://powerbi.microsoft.com/fr-fr/blog/) |
+|| [SQLBI Good articles around DAX/BI](https://www.sqlbi.com/) |
+|| [Official blog to stay up to date to the latest developpement](https://powerbi.microsoft.com/fr-fr/blog/) |
+|| [Power BI Cheat sheets and best practices](https://powerbi.microsoft.com/fr-fr/blog/) |
 |DAX| [DAX Pattern and Best Practice (Handling Different Granularities, Dynamic Segmentation, Time Patterns, Cumulative Total...)](https://www.daxpatterns.com/patterns/?ver=excel-2010-2013) |
 ||[DAX Cheat sheet](https://pragmaticworks.com/portfolio/dax-cheat-sheet/) 	|
-|Image ressources | https://fontawesome.com/icons?d=gallery&m=free high resolution icons|
-||https://www.iconfinder.com/editor/#copy online icon(svg file) editor|
+|Image ressources | [High resolution icons](https://fontawesome.com/icons?d=gallery&m=free)|
+||[online icon(svg file) editor](https://www.iconfinder.com/editor/#copy)|
 ||Colorbug : portable software to get the color code in HEX|
 |Blogs| Chris Webb's BI Blog https://blog.crossjoin.co.uk/|
 |Channel|  Guy in a Cube https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w|
