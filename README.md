@@ -28,8 +28,8 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 || Description |
 |---------|--------------------------------------------------------------------------------------------------------------|
 |Power BI| Power BI official documentation (Best practices guidance, Learning Catalogue...) https://docs.microsoft.com/en-us/power-bi/| 
-|| [SQLBI Good articles around DAX/BI](https://www.sqlbi.com/) |
-|| [Official blog to stay up to date to the latest developpement](https://powerbi.microsoft.com/fr-fr/blog/) |
+|| Good articles around DAX/BI https://www.sqlbi.com/ |
+|| [Official blog for the latest developpement](https://powerbi.microsoft.com/fr-fr/blog/) |
 || [Power BI Cheat sheets and best practices](https://github.com/DaveRuijter/PowerBICheatSheet) |
 |DAX| [DAX Pattern and Best Practice (Handling Different Granularities, Dynamic Segmentation, Time Patterns, Cumulative Total...)](https://www.daxpatterns.com/patterns/?ver=excel-2010-2013) |
 ||[DAX Cheat sheet](https://pragmaticworks.com/portfolio/dax-cheat-sheet/) 	|
