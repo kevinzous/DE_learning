@@ -36,6 +36,9 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 |Image ressources | https://fontawesome.com/icons?d=gallery&m=free high resolution icons|
 ||https://www.iconfinder.com/editor/#copy online icon(svg file) editor|
 ||Colorbug : portable software to get the color code in HEX|
+|Blogs| Chris Webb's BI Blog https://blog.crossjoin.co.uk/|
+|Channel|  Guy in a Cube https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w|
+
 
  Useful FREE tools | Description 
 ---------|--------------------------------------------------------------------------------------------------------------
