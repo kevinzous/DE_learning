@@ -7,7 +7,6 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 
 ### 1A - SQL 
 
-
 |   | Description 
 |---------|--------------------------------------------------------------------------------------------------------------
 |Clean SQL Code|Unofficial sql style guide like pep8 for python https://www.sqlstyle.guide/ 
@@ -15,8 +14,10 @@ Learning ressources for Data Warehousing - BI - Data Analytics
 |   |Bad habits to kick using table aliases  https://sqlblog.org/2009/10/08/bad-habits-to-kick-using-table-aliases-like-a-b-c-or-t1-t2-t3
 |Performing SQL Code| https://towardsdatascience.com/easy-fixes-for-sql-queries-ff9d8867a617
 |   | https://sql.sh/optimisation
+| Practice |Leetcode curated SQL Problems https://leetcode.com/problemset/database/ https://leetcode.com/problemset/leetcode-curated-sql-70/ 
 
 
+TODO : 
 * internals of your relational database — how the database uses memory and disk
 * what order does a query execute — which clause of the query gets evaluated first. Does the JOIN happen first or the WHERE clause or the GROUP BY
 * learn low-level implementation detail of how exactly the query engine parses, estimates, optimizes, rewrites and executes the queries.
@@ -61,6 +62,5 @@ Cons : some tools used in the course are not that relevant in the industry (ex: 
 
 * **The Data Warehouse Toolkit**, Ralph Kimball and Margy Ross [(PDF link)](http://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf).  
 It is considered as the bible for dimension modeling.  
-**Anki FlashCards** chapters 1,2,3 : soon  :sparkles: :sparkles: :sparkles: 
-
+**Anki FlashCards** chapters 1,2,3 : tbu :sparkles: 
 
