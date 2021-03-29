@@ -31,10 +31,10 @@ TODO :
 || Official blog for the latest developpement https://powerbi.microsoft.com/fr-fr/blog/ |
 || Power BI Cheat sheets and best practices https://github.com/DaveRuijter/PowerBICheatSheet |
 |DAX| DAX Pattern(Handling Different Granularities, Dynamic Segmentation, Time Patterns, Cumulative Total...) https://www.daxpatterns.com/patterns/ |
-||DAX Cheat sheet https://pragmaticworks.com/portfolio/dax-cheat-sheet/ 	|
+||DAX Cheat sheet https://pragmaticworks.com/portfolio/dax-cheat-sheet/ |
 |Image ressources | [High resolution icons](https://fontawesome.com/icons?d=gallery&m=free)|
-||[online icon(svg file) editor](https://www.iconfinder.com/editor/#copy)|
-||Colorbug : portable software to get the color code in HEX|
+||online icon editor for svg file https://www.iconfinder.com/editor |
+||Colorbug : portable software, color picker tool https://www.martinstoeckli.ch/colorbug/|
 |Blogs| Chris Webb's BI Blog https://blog.crossjoin.co.uk/|
 |Channel| Guy in a Cube https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w|
 
