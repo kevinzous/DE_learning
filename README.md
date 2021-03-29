@@ -30,9 +30,9 @@ TODO :
 || Good articles around DAX/BI https://www.sqlbi.com/ |
 || Official blog for the latest developpement https://powerbi.microsoft.com/fr-fr/blog/ |
 || Power BI Cheat sheets and best practices https://github.com/DaveRuijter/PowerBICheatSheet |
-|DAX| DAX Pattern(Handling Different Granularities, Dynamic Segmentation, Time Patterns, Cumulative Total...) https://www.daxpatterns.com/patterns/ |
+|DAX| DAX Pattern (Handling Different Granularities, Dynamic Segmentation, Time Patterns, Cumulative Total...) https://www.daxpatterns.com/patterns/ |
 ||DAX Cheat sheet https://pragmaticworks.com/portfolio/dax-cheat-sheet/ |
-|Image ressources | [High resolution icons](https://fontawesome.com/icons?d=gallery&m=free)|
+|Image ressources | High resolution Fontawesome icons https://fontawesome.com/icons?d=gallery&m=free |
 ||online icon editor for svg file https://www.iconfinder.com/editor |
 ||Colorbug : portable software, color picker tool https://www.martinstoeckli.ch/colorbug/|
 |Blogs| Chris Webb's BI Blog https://blog.crossjoin.co.uk/|
