@@ -1,16 +1,20 @@
 # DAX STUDIO
 
-## Use case:
+## Use case
+
 * Export data (for data more than 1 million rows)
-* Role and RLS testing 
+* Role and RLS testing
 * Get list of measures (below)
 * Get list of columns (below)
 * and more https://exceleratorbi.com.au/getting-started-dax-studio/
 
 ## Useful links
-* Documenting your Tabular or Power BI Model https://datasavvy.me/2016/10/04/+documenting-your-tabular-or-power-bi-model/ 
-* https://www.biinsight.com/dax-measure-dependencies-in-ssas-tabular-and-power-bi/ 
+
+* Documenting your Tabular or Power BI Model https://datasavvy.me/2016/10/04/+documenting-your-tabular-or-power-bi-model/
+* https://www.biinsight.com/dax-measure-dependencies-in-ssas-tabular-and-power-bi/
+
 ## Get list of measures
+
  ```sql
 SELECT measuregroup_name AS table_name, 
        measure_name,  
@@ -21,7 +25,8 @@ SELECT measuregroup_name AS table_name,
 ```
 
 ## Get list of columns
- ```sql
+
+```sql
 SELECT tableid,
 	   explicitName,
 	   expression,
@@ -35,6 +40,3 @@ SELECT tableid,
    AND ( [Type] = 1 or [Type] = 2) --columns or calculated columns
  ORDER BY tableid
 ```
-
-
-

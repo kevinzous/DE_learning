@@ -37,5 +37,9 @@ ssh-add ~/.ssh/id_ed25519 # add id_XXX
 Check branches last 15 branches created following <pattern>
 
 ```bash
-git for-each-ref --sort="-committerdate:iso8601" --format="%(committerdate:relative)|%(refname:short)|%(committername)" refs/remotes/ | grep <pattern> | head -15
+git for-each-ref \
+--sort="-committerdate:iso8601" \
+--format="%(committerdate:relative)|%(refname:short)|%(committername)" refs/remotes/ \
+| grep <pattern> \
+| head -15
 ```
